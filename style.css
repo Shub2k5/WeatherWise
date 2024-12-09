@@ -1,0 +1,51 @@
+*{
+    font-weight: bold;
+    text-shadow: 25px 25px 25px black;
+    font-family: "Raleway", serif;
+    font-display: dark;
+}
+.weather-Details{
+    font-size: 19px;
+}
+.searchbutton{
+    padding: 3px;
+    height: 25px;
+    width: 70px;
+}
+.search-input{
+    height: 30px;
+    padding: 20px;
+}
+body{
+    /* background-color: #4682B4; */
+    background-image: url("https://i.pinimg.com/736x/20/1e/6c/201e6c3e2f866107883caa0561791b8c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    margin-left: 450px;
+}
+.weather{
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border: 2px solid black;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-top: 70px;
+    height: 550px;
+    width: 600px;
+    border-radius: 100px;
+    box-shadow: 20px 30px 20px black;
+}
+h1{
+    font-weight: bold;
+    font-display: dark;
+    font-family: "Roboto Condensed", serif;
+    font-size: 45px;
+}
+h2{
+    font-family: "Roboto Condensed", serif;
+    font-size: 30px;
+}
